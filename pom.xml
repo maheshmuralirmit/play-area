@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rmit.automation</groupId>
 	<artifactId>play-area</artifactId>
-	<version>0.0.1-SNAPSHOT</versio>
+	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
