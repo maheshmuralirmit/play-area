@@ -3,16 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rmit.automation</groupId>
-	<artifactId>core-web</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<distributionManagement>
-		<repository>
-			<id>rmit-devops-dev-account-maven-central-store</id>
-			<name>rmit-devops-dev-account-maven-central-store</name>
-			<url>
-				https://rmit-devops-dev-account-579636596695.d.codeartifact.ap-southeast-2.amazonaws.com/maven/maven-central-store/</url>
-		</repository>
-	</distributionManagement>
+	<artifactId>play-area</artifactId>
+	<version>0.0.1-SNAPSHOT</versio>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
